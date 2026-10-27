@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/pittsburgh-night.jpg" alt="Pittsburgh skyline at night" width="100%" />
+  <img src="pittsburgh-night.jpg" alt="Pittsburgh skyline at night" width="100%" />
 
   <h1>Hi, I'm Gordon Yang 👋</h1>
   <p><strong>AI Agent &amp; Backend Engineer | M.S. @ Carnegie Mellon University</strong></p>

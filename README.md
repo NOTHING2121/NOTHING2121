@@ -25,7 +25,12 @@
 ### Experience
 
 **SenseTime — AI Agent Development Intern**  
-Contributed to agent context management, tool integrations, and reusable skills on the Little Raccoon Agent team, with a focus on context compaction for long-running agent tasks.
+Worked with the **Little Raccoon Agent team** on AI agent infrastructure and backend development, focusing on context management, tool integrations, and reusable skills.
+
+- **Context Compaction:** Helped design and optimize context management for long-running agent tasks, including dynamic token budgets, message anchoring, and preserving conversation and tool-call consistency during compaction.
+- **Layered Memory:** Contributed to a snapshot–summary–archive approach for retaining essential task information while managing growing conversation histories.
+- **Tool Integration:** Integrated web search capabilities to improve agents' information retrieval and multi-step task execution.
+- **Skill Infrastructure:** Developed skill sharing and workflow extraction features, using Redis-based locking and database state management to handle concurrent generation safely.
 
 ### Featured Work
 

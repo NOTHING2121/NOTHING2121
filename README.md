@@ -39,7 +39,7 @@ Interested in reliable agent execution, context management, retrieval, and devel
 
 - **[agent-harness](https://github.com/NOTHING2121/agent-harness)** — A local, extensible AI agent runtime with dynamic plugin discovery, tool registration, a CLI, and isolated plugin processes communicating over JSON.
 - **[VoiceType](https://github.com/NOTHING2121/VoiceType)** — A macOS speech-to-text menu bar app built with SwiftUI and AppKit, featuring push-to-talk dictation, live captions, and privacy-focused on-device recognition.
-- **[leetcode-hot100-acm](https://github.com/NOTHING2121/leetcode-hot100-acm)** — LeetCode Hot 100 solutions in ACM-style format.
+- **[leetcode-hot100-acm](https://github.com/NOTHING2121/leetcode-hot100-acm)** — LeetCode Hot 100 solutions in ACM-style format, designed to help students prepare for coding interviews in mainland China.
 - **[mlip-kubernetes-lab](https://github.com/NOTHING2121/mlip-kubernetes-lab)** — Kubernetes deployment and orchestration practice.
 
 ---

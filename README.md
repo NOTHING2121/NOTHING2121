@@ -39,6 +39,7 @@ Interested in reliable agent execution, context management, retrieval, and devel
 
 - [GenAI_Agents](https://github.com/NOTHING2121/GenAI_Agents) — Generative AI and agent-related work
 - [mlip-kubernetes-lab](https://github.com/NOTHING2121/mlip-kubernetes-lab) — Kubernetes practice
+- [leetcode-hot100-acm](https://github.com/NOTHING2121/leetcode-hot100-acm) — LeetCode Hot 100 solutions in ACM-style format
 
 ---
 
